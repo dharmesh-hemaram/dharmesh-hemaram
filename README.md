@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I am Dharmesh Patel 👋
 
-<!--
-**dharmesh-hemaram/dharmesh-hemaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Software Engineer. I enjoy learning new Technologies and Frameworks 😁.
 
-Here are some ideas to get you started:
+Majorly worked on Javascript and it's frameworks( Vue, Node and React ), databases (SQL, Redis), docker and AWS services. Currently learning Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements
+- I am developer of [Auto Clicker - AutoFill](https://chrome.google.com/webstore/detail/auto-clicker-autofill/iapifmceeokikomajpccajhjpacjmibe)
+
+## Recently Explored
+
+- Building desktop applications using electron app.
+- Creating mv3 web browser extension.
+- Creating Github Actions to auto mate continous integration.
